@@ -2,6 +2,8 @@ body{
     margin:0;
     background:url("bakgrund.jpg");
     background-size:cover;
+    height:auto;
+    width:auto;
 }
 article{
     width:80%;
@@ -23,7 +25,7 @@ img{
 }
 footer{ 
     background:rgb(211, 211, 211);
-    height:75px;    
+    height:auto;    
 }
 h6{
 margin-top:20px; 
