@@ -3,7 +3,7 @@ body{
     background:url("bakgrund.jpg");
     background-size:cover;
     height:auto;
-    width:auto;
+    max-width:100%;
 }
 article{
     width:80%;
