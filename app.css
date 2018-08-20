@@ -2,11 +2,11 @@ body{
     margin:0;
     background:url("bakgrund.jpg");
     background-size:cover;
-    height:auto;
+    max-height:100%;
     max-width:100%;
 }
 article{
-    width:80%;
+    max-width:80%;
     background: rgba(255, 250, 245, 0.288);
     box-shadow:5px 10px #888888;
     color:rgb(10, 10, 10); 
@@ -25,8 +25,12 @@ img{
 }
 footer{ 
     background:rgb(211, 211, 211);
-    height:auto;    
+    max-height:auto;    
 }
 h6{
 margin-top:20px; 
+}
+a{
+    color:rgb(0, 0, 0);
+   
 }
