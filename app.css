@@ -39,7 +39,9 @@ a{
 @media  (max-width:400px) {
     body {       
        margin:0;
-       max-width:337px;     
-     
+       max-width:auto;     
+    }
+    .navbar{
+        width:100%;
     }
 }
