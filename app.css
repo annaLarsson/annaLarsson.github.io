@@ -1,22 +1,25 @@
 body{
     background:url("bakgrund.jpg");
+ 
     margin:0; 
     width:auto;
-    height:auto; 
+    height:auto;
+  
 }
 .navbar{
- max-width:100%;   
+    max-width:100%;
+    background:rgb(211, 211, 211);  
 }
 article{
     width:80%;
-    background: rgba(255, 250, 245, 0.288);
+    background: rgba(255, 250, 245, 0.411);
     box-shadow:5px 10px #888888;
     color:rgb(10, 10, 10); 
     padding:20px;
     margin-top:10px;
 }    
 .bild{   
-    margin-top:100px;
+    margin-top:75px;
 } 
 .kontakt{
     margin-top:5px; 
