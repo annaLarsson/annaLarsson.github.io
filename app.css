@@ -49,8 +49,7 @@ a{
        max-width:450px;      
        height:500px;                    
     }
-    .navbar{
-        background-color: blueviolet;
+    .navbar{       
         margin:0;      
         width:500px;
         height:auto;
