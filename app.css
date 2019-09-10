@@ -12,12 +12,12 @@ body{
     background:rgb(224, 243, 248);  
 }
 article{
-    width:85%;
+    width:90%;
     background:url("background1-min.jpg"); 
     box-shadow:5px 10px #888888;
     color:rgb(10, 10, 10); 
     padding:20px;
-    margin-top:10px;
+    margin-top:15px;
 }    
 .bild{   
     margin-top:75px;
@@ -43,18 +43,19 @@ h5{
 a{
     color:rgb(0, 0, 0);   
 }
-@media only screen and (max-width:365px ) and (max-width:640px) {
-    body {       
+@media only screen and (max-width:365px )  {
+    body { 
+       background-color: pink;      
        margin:0;
        width:auto;      
-       height:auto;                    
+       height:700px;                    
     }
     .navbar{
-        width:auto;
+        width:100%;
         height:auto;
     }
     article{
-        width:1auto;
+        width:100%;
     }
     footer{
        width:auto;
