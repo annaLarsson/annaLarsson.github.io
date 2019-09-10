@@ -43,22 +43,23 @@ h5{
 a{
     color:rgb(0, 0, 0);   
 }
-@media only screen and (max-width:365px )  {
-    body { 
-       background-color: pink;      
+@media only screen and (max-width:465px )  {
+    body {           
        margin:0;
-       width:auto;      
-       height:700px;                    
+       max-width:450px;      
+       height:500px;                    
     }
     .navbar{
-        width:100%;
+        background-color: blueviolet;
+        margin:0;      
+        width:500px;
         height:auto;
     }
     article{
-        width:100%;
+       margin:0;
     }
     footer{
-       width:auto;
+       width:500px;
        height: auto;
     }
 }
