@@ -1,4 +1,5 @@
 # annaLarsson.github.io
+Presentation about me Anna
+HTML5, CSS and GreenSock.
 
-Presentation av mig Anna.
-HTML,CSS, Greensocket och Bootstrap. 
+As a junior Frontend  developers there is so much fun to learn and Greensock is great fun.
